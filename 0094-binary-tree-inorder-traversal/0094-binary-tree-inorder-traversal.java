@@ -16,26 +16,33 @@
 class Solution {
     public List<Integer> inorderTraversal(TreeNode root)
      {
-        return preorderTraversal1(root,new ArrayList<Integer>());
-    }
-    public List<Integer> preorderTraversal1(TreeNode root,List<Integer> arr)
-    {
+       Stack<TreeNode> st=new Stack<TreeNode>();
+       List<Integer> arr=new ArrayList<>();
+       TreeNode node=root;
+       if(root==null)
+       {
         
-        if(root!=null)
-        {
+        return arr;
+       }
+       while(true)
+       {
         
-        
-        
-        if(root.left!=null)
-        {
-        preorderTraversal1(root.left,arr);
-        }
-        arr.add(root.val);
-        if(root.right!=null)
-        {
-        preorderTraversal1(root.right,arr);
-        }
-    }
-    return arr; 
+              if(node!=null)
+              {
+                st.add(node);
+                node=node.left;
+              }
+              else
+              {
+                if(st.isEmpty())
+                {
+                    break;
+                }
+                node=st.pop();
+                arr.add(node.val);
+                node=node.right;
+              }
+       }
+       return arr;
     }
 }
