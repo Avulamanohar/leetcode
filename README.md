@@ -95,6 +95,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avulamanohar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [0242-valid-anagram](https://github.com/Avulamanohar/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
 ## String
 |  |
@@ -102,6 +103,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avulamanohar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0125-valid-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0151-reverse-words-in-a-string) |
+| [0242-valid-anagram](https://github.com/Avulamanohar/leetcode/tree/master/0242-valid-anagram) |
 | [0344-reverse-string](https://github.com/Avulamanohar/leetcode/tree/master/0344-reverse-string) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
 ## Sliding Window
@@ -112,4 +114,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
+## Sorting
+|  |
+| ------- |
+| [0242-valid-anagram](https://github.com/Avulamanohar/leetcode/tree/master/0242-valid-anagram) |
 <!---LeetCode Topics End-->
