@@ -84,6 +84,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avulamanohar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0046-permutations](https://github.com/Avulamanohar/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Avulamanohar/leetcode/tree/master/0047-permutations-ii) |
 | [0283-move-zeroes](https://github.com/Avulamanohar/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avulamanohar/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -128,6 +129,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Sorting
 |  |
 | ------- |
+| [0047-permutations-ii](https://github.com/Avulamanohar/leetcode/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/Avulamanohar/leetcode/tree/master/0242-valid-anagram) |
 ## Trie
 |  |
@@ -145,4 +147,5 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0046-permutations](https://github.com/Avulamanohar/leetcode/tree/master/0046-permutations) |
+| [0047-permutations-ii](https://github.com/Avulamanohar/leetcode/tree/master/0047-permutations-ii) |
 <!---LeetCode Topics End-->
