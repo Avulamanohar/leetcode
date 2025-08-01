@@ -134,4 +134,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
+## Math
+|  |
+| ------- |
+| [0507-perfect-number](https://github.com/Avulamanohar/leetcode/tree/master/0507-perfect-number) |
 <!---LeetCode Topics End-->
