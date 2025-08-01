@@ -83,6 +83,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avulamanohar/leetcode/tree/master/0014-longest-common-prefix) |
+| [0046-permutations](https://github.com/Avulamanohar/leetcode/tree/master/0046-permutations) |
 | [0283-move-zeroes](https://github.com/Avulamanohar/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avulamanohar/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -140,4 +141,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0507-perfect-number](https://github.com/Avulamanohar/leetcode/tree/master/0507-perfect-number) |
+## Backtracking
+|  |
+| ------- |
+| [0046-permutations](https://github.com/Avulamanohar/leetcode/tree/master/0046-permutations) |
 <!---LeetCode Topics End-->
