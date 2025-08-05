@@ -1,54 +1,68 @@
 class Solution {
     public String longestPalindrome(String s)
     {
-        int i,j,k;
-      int n=2*s.length()+1;
-           StringBuilder sb=new StringBuilder(s);
-    
+      int i,j;
+     
+      String f=preProcess(s);
+       int n=f.length();
+      int p[]=new int[n];
       i=0;
       while(i<n)
       {
-      sb=sb.insert(i,"#");
-      i=i+2;
+        p[i]=1;
+        i++;
       }
-      String f=sb.toString(); 
-      int p[]=new int[n];
-      int r=0;
-      int c=0;
-      int LongCent=0;
-      int LongLen=0;
-      
-     char d[]=f.toCharArray();
+      char g[]=f.toCharArray();
+      int cent=0;
+      int right=0;
+      int ll=0;
+      int lc=0;
       for(i=0;i<n;i++)
-      { int m=2*c-i;
-        if(r>i)
+      { 
+        int mirror=2*cent-i;
+        if(right>i)
         {
-            p[i]=Math.min(r-i,p[m]);
+            p[i]=Math.min(right-i,p[mirror]);
         }
-        int a=i-(p[i]+1);
-        int b=i+(p[i]+1);
-        while(a>=0&&b<n&&d[i-(p[i]+1)]==d[i+(p[i]+1)])
+        int a=i-p[i];
+        int b=i+p[i];
+        while(a>=0&&b<n&&g[a]==g[b])
         {
             p[i]++;
             a--;
             b++;
         }
-        if(i+p[i]>r)
-        {
-            r=i+p[i];
-            c=i;
+        if(i+p[i]>right)
+        {right=p[i]+i;
+        cent=i;
         }
-        if(p[i]>LongLen)
+        if(p[i]>=ll)
         {
-            LongCent=i;
-            LongLen=p[i];
+            ll=p[i];
+            lc=i;
         }
-
-
         
+
       }
-      return f.substring(LongCent-LongLen,LongLen+LongCent).replace("#","");
-        
+      int start=(lc-ll+1)/2;
+
+
+      return /* Integer.toString(lc);*/  s.substring(start,start+ll-1);
+    }
+    public String preProcess(String s)
+    {
+        int i,j;
+        StringBuilder sb=new StringBuilder(s);
+        int n=2*s.length()+1;
+        i=0;
+        while(i<n)
+        {
+             sb=sb.insert(i,"#");
+             i=i+2;
+        }
+        String f="";
+        f=sb.toString();
+        return f;
     }
    
 
