@@ -107,6 +107,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avulamanohar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0012-integer-to-roman](https://github.com/Avulamanohar/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/0013-roman-to-integer) |
 | [0242-valid-anagram](https://github.com/Avulamanohar/leetcode/tree/master/0242-valid-anagram) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -116,6 +117,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avulamanohar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
 | [0005-longest-palindromic-substring](https://github.com/Avulamanohar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0012-integer-to-roman](https://github.com/Avulamanohar/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Avulamanohar/leetcode/tree/master/0014-longest-common-prefix) |
 | [0125-valid-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0125-valid-palindrome) |
 | [0151-reverse-words-in-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0151-reverse-words-in-a-string) |
@@ -154,6 +156,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Avulamanohar/leetcode/tree/master/0007-reverse-integer) |
 | [0009-palindrome-number](https://github.com/Avulamanohar/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Avulamanohar/leetcode/tree/master/0012-integer-to-roman) |
+| [0013-roman-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/0013-roman-to-integer) |
 | [0507-perfect-number](https://github.com/Avulamanohar/leetcode/tree/master/0507-perfect-number) |
 ## Backtracking
 |  |
