@@ -144,6 +144,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0742-to-lower-case](https://github.com/Avulamanohar/leetcode/tree/master/0742-to-lower-case) |
 | [1454-remove-palindromic-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Avulamanohar/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2235-capitalize-the-title](https://github.com/Avulamanohar/leetcode/tree/master/2235-capitalize-the-title) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## Sliding Window
 |  |
