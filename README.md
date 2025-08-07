@@ -82,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avulamanohar/leetcode/tree/master/0005-longest-palindromic-substring) |
+| [0053-maximum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/0053-maximum-subarray) |
 | [0124-binary-tree-maximum-path-sum](https://github.com/Avulamanohar/leetcode/tree/master/0124-binary-tree-maximum-path-sum) |
 | [0647-palindromic-substrings](https://github.com/Avulamanohar/leetcode/tree/master/0647-palindromic-substrings) |
 ## Array
@@ -92,6 +93,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Avulamanohar/leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0046-permutations](https://github.com/Avulamanohar/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Avulamanohar/leetcode/tree/master/0047-permutations-ii) |
+| [0053-maximum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/0053-maximum-subarray) |
 | [0075-sort-colors](https://github.com/Avulamanohar/leetcode/tree/master/0075-sort-colors) |
 | [0136-single-number](https://github.com/Avulamanohar/leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Avulamanohar/leetcode/tree/master/0169-majority-element) |
@@ -213,6 +215,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Divide and Conquer
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/0053-maximum-subarray) |
 | [0169-majority-element](https://github.com/Avulamanohar/leetcode/tree/master/0169-majority-element) |
 ## Counting
 |  |
