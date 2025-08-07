@@ -104,6 +104,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avulamanohar/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Avulamanohar/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Avulamanohar/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Two Pointers
 |  |
 | ------- |
@@ -122,6 +123,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0647-palindromic-substrings](https://github.com/Avulamanohar/leetcode/tree/master/0647-palindromic-substrings) |
 | [1454-remove-palindromic-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Avulamanohar/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Avulamanohar/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Hash Table
 |  |
 | ------- |
@@ -191,6 +193,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
 | [0657-robot-return-to-origin](https://github.com/Avulamanohar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
+| [2271-rearrange-array-elements-by-sign](https://github.com/Avulamanohar/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 ## Math
 |  |
 | ------- |
