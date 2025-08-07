@@ -71,10 +71,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Avulamanohar/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 ## Bit Manipulation
 |  |
 | ------- |
 | [0222-count-complete-tree-nodes](https://github.com/Avulamanohar/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -89,6 +91,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0046-permutations](https://github.com/Avulamanohar/leetcode/tree/master/0046-permutations) |
 | [0047-permutations-ii](https://github.com/Avulamanohar/leetcode/tree/master/0047-permutations-ii) |
 | [0189-rotate-array](https://github.com/Avulamanohar/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avulamanohar/leetcode/tree/master/0283-move-zeroes) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avulamanohar/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -118,6 +121,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/0013-roman-to-integer) |
 | [0017-letter-combinations-of-a-phone-number](https://github.com/Avulamanohar/leetcode/tree/master/0017-letter-combinations-of-a-phone-number) |
 | [0242-valid-anagram](https://github.com/Avulamanohar/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Avulamanohar/leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
@@ -163,6 +167,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0047-permutations-ii](https://github.com/Avulamanohar/leetcode/tree/master/0047-permutations-ii) |
 | [0242-valid-anagram](https://github.com/Avulamanohar/leetcode/tree/master/0242-valid-anagram) |
+| [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 ## Trie
 |  |
 | ------- |
@@ -181,6 +186,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0012-integer-to-roman](https://github.com/Avulamanohar/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Avulamanohar/leetcode/tree/master/0189-rotate-array) |
+| [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Avulamanohar/leetcode/tree/master/0507-perfect-number) |
 ## Backtracking
