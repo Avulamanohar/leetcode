@@ -134,6 +134,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0345-reverse-vowels-of-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
+| [0434-number-of-segments-in-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0520-detect-capital](https://github.com/Avulamanohar/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Avulamanohar/leetcode/tree/master/0541-reverse-string-ii) |
 | [0647-palindromic-substrings](https://github.com/Avulamanohar/leetcode/tree/master/0647-palindromic-substrings) |
