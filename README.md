@@ -211,6 +211,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0009-palindrome-number](https://github.com/Avulamanohar/leetcode/tree/master/0009-palindrome-number) |
 | [0012-integer-to-roman](https://github.com/Avulamanohar/leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/0013-roman-to-integer) |
+| [0060-permutation-sequence](https://github.com/Avulamanohar/leetcode/tree/master/0060-permutation-sequence) |
 | [0189-rotate-array](https://github.com/Avulamanohar/leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
@@ -235,4 +236,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0169-majority-element](https://github.com/Avulamanohar/leetcode/tree/master/0169-majority-element) |
 | [0229-majority-element-ii](https://github.com/Avulamanohar/leetcode/tree/master/0229-majority-element-ii) |
+## Recursion
+|  |
+| ------- |
+| [0060-permutation-sequence](https://github.com/Avulamanohar/leetcode/tree/master/0060-permutation-sequence) |
 <!---LeetCode Topics End-->
