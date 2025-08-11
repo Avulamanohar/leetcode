@@ -16,19 +16,12 @@
 class Solution {
     public boolean isBalanced(TreeNode root) 
     {
-        boolean b=true;
-        if(root==null)
-        {
-            return b;
-        }
-        int k=depth(root);
-        if(k==-1)
-        {
-            b=false;
-        }
-        return b;
-    
-        
+        int a=depth(root);
+        if(a==-1)
+         {
+            return false;
+         }
+     return true;
     }
     public int depth(TreeNode root)
     {
@@ -52,5 +45,4 @@ class Solution {
         }
         return Math.max(left,right)+1;
     }
-
 }
