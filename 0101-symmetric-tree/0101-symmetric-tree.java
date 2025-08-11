@@ -16,54 +16,25 @@
 class Solution {
     public boolean isSymmetric(TreeNode root)
      {
+        TreeNode left=root.left;
+        TreeNode right=root.left;
         if(root==null)
         {
             return true;
         }
-        int i,j;
-      ArrayList<Integer> arr1=new ArrayList<Integer>();
-      ArrayList<Integer> arr2=new ArrayList<Integer>();
-       Inorder1(root.left,arr1);
-       Inorder2(root.right,arr2);
-       boolean b=true; 
-       int n=arr1.size();
-       int m=arr2.size();
-       if(m!=n)
-       {
-        return false;
-       }
-       for(i=0;i<n;i++)
-       {
-        if(arr1.get(i)!=arr2.get(i))
-        {
-              b=false;
-              break;
-        }
-       }
-       return b;
+        return b(root.left,root.right);
         
     }
-    public void Inorder1(TreeNode root,ArrayList<Integer> arr)
+    public boolean b(TreeNode a,TreeNode b)
     {
-        if(root==null)
+        if(a==null&&b==null)
         {
-              arr.add(-1);
-            return;
+            return true;
         }
-        arr.add(root.val);
-        Inorder1(root.left,arr);
-        Inorder1(root.right,arr);
-    }
-     public void Inorder2(TreeNode root,ArrayList<Integer> arr)
-    {
-        if(root==null)
+        if(a==null || b==null || a.val!=b.val)
         {
-          arr.add(-1);
-            return;
+            return false;
         }
-        arr.add(root.val);
-        Inorder2(root.right,arr);
-        Inorder2(root.left,arr);
-
+        return b(a.left,b.right)&&b(a.right,b.left);
     }
 }
