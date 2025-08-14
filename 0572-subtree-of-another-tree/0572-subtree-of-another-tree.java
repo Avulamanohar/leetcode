@@ -28,10 +28,10 @@ class Solution {
         
         for(i=0;i<n;i++)
         {
-             b[0]=true;
+            
         TreeNode k=arr.get(i);
-        Sub(k,subRoot,b); 
-        if(b[0])
+       
+        if( Sub(k,subRoot))
        {
        return true;
        }
@@ -55,21 +55,21 @@ class Solution {
         hi(root.left,sub,arr);
         hi(root.right,sub,arr);
     }
-    public void Sub(TreeNode Node,TreeNode sub,boolean b[])
-    {if(Node==null&&sub==null)
-    {
-        return;
-    }
-        if(Node==null||sub==null)
-        {   b[0]=false;
-            return;
+    public boolean Sub(TreeNode Node,TreeNode sub)
+    {   
+        if(Node==null&&sub==null)
+        {
+            return true;
         }
+        if(Node==null||sub==null)
+    {
+        return false;
+    }
         if(Node.val!=sub.val)
         {
-            b[0]=false;
-            return;
+         
+            return false;
         }
-      Sub(Node.left,sub.left,b);
-      Sub(Node.right,sub.right,b);
+    return  Sub(Node.left,sub.left)&&Sub(Node.right,sub.right);
     }
 }
