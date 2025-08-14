@@ -54,6 +54,6 @@ class Solution {
           
         }
          hs.add(a+1);
-        return 1+a;
+        return a+1;
     }
 }
