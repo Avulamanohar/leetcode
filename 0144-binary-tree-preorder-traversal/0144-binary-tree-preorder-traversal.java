@@ -13,30 +13,21 @@
  *     }
  * }
  */
- import java.util.*;
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root)
-     {
-        return preorderTraversal1(root,new ArrayList<Integer>());
-    }
-    public List<Integer> preorderTraversal1(TreeNode root,List<Integer> arr)
     {
-        
-        if(root!=null)
-        {
-        arr.add(root.val);
-        
-        
-        if(root.left!=null)
-        {
-        preorderTraversal1(root.left,arr);
-        }
-        if(root.right!=null)
-        {
-        preorderTraversal1(root.right,arr);
-        }
+        List<Integer> arr=new ArrayList<>();
+        Pre(root,arr);
+        return arr;
     }
-    return arr;             
+    public void Pre(TreeNode root,List<Integer> arr)
+    {
+     if(root==null)
+     {
+        return;
+     }
+     arr.add(root.val);
+     Pre(root.left,arr);
+     Pre(root.right,arr);
     }
-
 }
