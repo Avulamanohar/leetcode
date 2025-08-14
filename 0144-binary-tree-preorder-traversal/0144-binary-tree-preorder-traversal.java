@@ -15,7 +15,7 @@
  */
 class Solution {
     public List<Integer> preorderTraversal(TreeNode root)
-    {
+    {//Recusrion
         List<Integer> arr=new ArrayList<>();
         Pre(root,arr);
         return arr;
