@@ -179,6 +179,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0136-single-number](https://github.com/Avulamanohar/leetcode/tree/master/0136-single-number) |
 | [0222-count-complete-tree-nodes](https://github.com/Avulamanohar/leetcode/tree/master/0222-count-complete-tree-nodes) |
+| [0231-power-of-two](https://github.com/Avulamanohar/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
 ## Dynamic Programming
@@ -349,6 +350,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0060-permutation-sequence](https://github.com/Avulamanohar/leetcode/tree/master/0060-permutation-sequence) |
 | [0069-sqrtx](https://github.com/Avulamanohar/leetcode/tree/master/0069-sqrtx) |
 | [0189-rotate-array](https://github.com/Avulamanohar/leetcode/tree/master/0189-rotate-array) |
+| [0231-power-of-two](https://github.com/Avulamanohar/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Avulamanohar/leetcode/tree/master/0367-valid-perfect-square) |
@@ -383,6 +385,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0060-permutation-sequence](https://github.com/Avulamanohar/leetcode/tree/master/0060-permutation-sequence) |
+| [0231-power-of-two](https://github.com/Avulamanohar/leetcode/tree/master/0231-power-of-two) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
 ## Union Find
 |  |
