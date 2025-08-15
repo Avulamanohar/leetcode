@@ -352,6 +352,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Avulamanohar/leetcode/tree/master/0189-rotate-array) |
 | [0231-power-of-two](https://github.com/Avulamanohar/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
+| [0326-power-of-three](https://github.com/Avulamanohar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
 | [0367-valid-perfect-square](https://github.com/Avulamanohar/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
@@ -386,6 +387,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0060-permutation-sequence](https://github.com/Avulamanohar/leetcode/tree/master/0060-permutation-sequence) |
 | [0231-power-of-two](https://github.com/Avulamanohar/leetcode/tree/master/0231-power-of-two) |
+| [0326-power-of-three](https://github.com/Avulamanohar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
 ## Union Find
 |  |
