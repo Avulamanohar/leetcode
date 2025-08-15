@@ -69,8 +69,9 @@ class Solution {
        {
         in2.add(in.get(i));
        }
-       root.right=build(pr1,in2);
        root.left=build(pr2,in1);
+       root.right=build(pr1,in2);
+       
        
        return root;
 
