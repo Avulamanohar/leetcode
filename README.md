@@ -316,6 +316,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0135-candy](https://github.com/Avulamanohar/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
+| [1448-maximum-69-number](https://github.com/Avulamanohar/leetcode/tree/master/1448-maximum-69-number) |
 ## Sorting
 |  |
 | ------- |
@@ -359,6 +360,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Avulamanohar/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Avulamanohar/leetcode/tree/master/0507-perfect-number) |
+| [1448-maximum-69-number](https://github.com/Avulamanohar/leetcode/tree/master/1448-maximum-69-number) |
 ## Backtracking
 |  |
 | ------- |
