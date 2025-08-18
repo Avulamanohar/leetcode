@@ -22,25 +22,26 @@ class Solution {
         }
         int a[]=new int[1];
         a[0]=0;
-        sum(root,a,0,0);
-        return a[0];
+        boolean b=false;
+      
+        return   sum(root,b);
         
     }
-    public void sum(TreeNode root,int a[],int ind,int p)
+    public int  sum(TreeNode root,boolean b)
     {
         if(root==null)
         {
-            return;
+            return 0;
         }
         if(root.left==null&&root.right==null)
         {
-            if(ind<p)
-            {
-                a[0]+=root.val;
-            }
-            return ;
+              if(b)
+              {
+                return root.val;
+              }
+              return 0;
         }
-        sum(root.left,a,ind-1,ind);
-        sum(root.right,a,ind+1,ind);
+        return sum(root.left,true)+sum(root.right,false);
+        
     }
 }
