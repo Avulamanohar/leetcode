@@ -64,6 +64,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/Avulamanohar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -109,6 +110,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0662-maximum-width-of-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [0904-leaf-similar-trees](https://github.com/Avulamanohar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
@@ -160,6 +162,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [0904-leaf-similar-trees](https://github.com/Avulamanohar/leetcode/tree/master/0904-leaf-similar-trees) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
