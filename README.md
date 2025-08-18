@@ -13,6 +13,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0145-binary-tree-postorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/0145-binary-tree-postorder-traversal) |
 | [0155-min-stack](https://github.com/Avulamanohar/leetcode/tree/master/0155-min-stack) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
 | ------- |
@@ -68,6 +69,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Avulamanohar/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Avulamanohar/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -170,6 +172,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Avulamanohar/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Avulamanohar/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -274,6 +277,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Avulamanohar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avulamanohar/leetcode/tree/master/0560-subarray-sum-equals-k) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1878-check-if-array-is-sorted-and-rotated](https://github.com/Avulamanohar/leetcode/tree/master/1878-check-if-array-is-sorted-and-rotated) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Avulamanohar/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
@@ -487,9 +491,14 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Avulamanohar/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0783-search-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0783-search-in-a-binary-search-tree) |
 | [0784-insert-into-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Function
 |  |
 | ------- |
 | [0572-subtree-of-another-tree](https://github.com/Avulamanohar/leetcode/tree/master/0572-subtree-of-another-tree) |
+## Monotonic Stack
+|  |
+| ------- |
+| [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 <!---LeetCode Topics End-->
