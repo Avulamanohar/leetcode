@@ -40,38 +40,35 @@ public class Codec {
     // Decodes your encoded data to tree.
     public TreeNode deserialize(String data)
     {
-        if(data.isEmpty())
+     if(data.isEmpty())
+     {
+        return null;
+     }
+     Queue<TreeNode> q=new LinkedList<>();
+     String b[]=data.split(" ");
+     TreeNode r=new TreeNode(Integer.parseInt(b[0]));
+     q.add(r);
+     int i=1;
+     int n=b.length;
+     while(!q.isEmpty()&&i<n)
+     {
+        TreeNode root=q.poll();
+        if(!b[i].equals("n"))
         {
-            return null;
+            TreeNode left=new TreeNode(Integer.parseInt(b[i]));
+            root.left=left;
+            q.add(left);
         }
-        Queue<TreeNode> q=new LinkedList<>();
-        String b[]=data.split(" ");
-        int n=b.length;
-        TreeNode r=new TreeNode(Integer.parseInt(b[0]));
-        q.add(r);
-        int i=1;
-        while (!q.isEmpty() && i < n) {
-            TreeNode node = q.poll();
+        i++;
+           if(!b[i].equals("n"))
+        {
+            TreeNode right=new TreeNode(Integer.parseInt(b[i]));
+            root.right=right;
+            q.add(right);
 
-            // Left child
-            if (!b[i].equals("n")) {
-                node.left = new TreeNode(Integer.parseInt(b[i]));
-                q.add(node.left);
-            }
-            i++;
-
-            // Right child
-            if (i < n && !b[i].equals("n")) {
-                node.right = new TreeNode(Integer.parseInt(b[i]));
-                q.add(node.right);
-            }
-            i++;
-        }
-            
-
-            
-        
-        return r;
+        }i++;
+     }
+return r;
         
     }
 }
