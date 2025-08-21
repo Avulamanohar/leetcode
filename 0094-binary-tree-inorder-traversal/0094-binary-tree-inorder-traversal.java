@@ -22,27 +22,25 @@ class Solution {
         {
             return arr;
         }
-        int i,j;
-        st.push(root);
-         TreeNode t=root.left;
-        while(t!=null||!st.isEmpty())
+        TreeNode t=root;
+        while(true)
         {
-            int n=st.size();
-            while(t!=null)
+            if(t!=null)
             {
-             st.push(t);
-             t=t.left;
-            }   
-            t=st.pop();
-           
-            arr.add(t.val);
-           
-            
-            
-             t=t.right;
-
+                st.push(t);
+                t=t.left;
+            }
+            else
+            {
+                if(st.isEmpty())
+                {
+                    break;
+                }
+                TreeNode nod=st.pop();
+                arr.add(nod.val);
+                t=nod.right;
+            }
         }
         return arr;
-        
     }
 }
