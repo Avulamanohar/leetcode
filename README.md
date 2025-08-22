@@ -85,6 +85,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Avulamanohar/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Avulamanohar/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -146,6 +147,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Avulamanohar/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Avulamanohar/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Avulamanohar/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -214,6 +216,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1035-cousins-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1035-cousins-in-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1079-sum-of-root-to-leaf-binary-numbers](https://github.com/Avulamanohar/leetcode/tree/master/1079-sum-of-root-to-leaf-binary-numbers) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Avulamanohar/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
@@ -560,6 +563,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0784-insert-into-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0784-insert-into-a-binary-search-tree) |
 | [0933-increasing-order-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Avulamanohar/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Function
