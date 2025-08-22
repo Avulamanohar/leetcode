@@ -66,6 +66,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Avulamanohar/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Avulamanohar/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Avulamanohar/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -129,6 +130,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Avulamanohar/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Avulamanohar/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Avulamanohar/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -192,6 +194,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0572-subtree-of-another-tree](https://github.com/Avulamanohar/leetcode/tree/master/0572-subtree-of-another-tree) |
 | [0606-construct-string-from-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0606-construct-string-from-binary-tree) |
 | [0617-merge-two-binary-trees](https://github.com/Avulamanohar/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Avulamanohar/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0671-second-minimum-node-in-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0671-second-minimum-node-in-a-binary-tree) |
@@ -236,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0515-find-largest-value-in-each-tree-row](https://github.com/Avulamanohar/leetcode/tree/master/0515-find-largest-value-in-each-tree-row) |
 | [0530-minimum-absolute-difference-in-bst](https://github.com/Avulamanohar/leetcode/tree/master/0530-minimum-absolute-difference-in-bst) |
 | [0617-merge-two-binary-trees](https://github.com/Avulamanohar/leetcode/tree/master/0617-merge-two-binary-trees) |
+| [0623-add-one-row-to-tree](https://github.com/Avulamanohar/leetcode/tree/master/0623-add-one-row-to-tree) |
 | [0637-average-of-levels-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0637-average-of-levels-in-binary-tree) |
 | [0662-maximum-width-of-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0662-maximum-width-of-binary-tree) |
 | [0764-n-ary-tree-level-order-traversal](https://github.com/Avulamanohar/leetcode/tree/master/0764-n-ary-tree-level-order-traversal) |
