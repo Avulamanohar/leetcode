@@ -20,19 +20,12 @@ class Solution {
         ListNode hi=head;
         while(fast!=null&&fast.next!=null)
         {     count=count+1;
+            hi=slow;
             fast=fast.next.next;
             slow=slow.next;
           
         }
-        int i=1;
-        while(i<count-1)
-        {
-           hi=hi.next;
-           i++;
-        }
-        
-        hi.next=hi.next.next;
-        
+    hi.next=hi.next.next;
         return head;
         
     }
