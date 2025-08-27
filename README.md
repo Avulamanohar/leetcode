@@ -549,6 +549,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Recursion
 |  |
 | ------- |
+| [0021-merge-two-sorted-lists](https://github.com/Avulamanohar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0060-permutation-sequence](https://github.com/Avulamanohar/leetcode/tree/master/0060-permutation-sequence) |
 | [0206-reverse-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0231-power-of-two](https://github.com/Avulamanohar/leetcode/tree/master/0231-power-of-two) |
@@ -578,6 +579,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0019-remove-nth-node-from-end-of-list](https://github.com/Avulamanohar/leetcode/tree/master/0019-remove-nth-node-from-end-of-list) |
+| [0021-merge-two-sorted-lists](https://github.com/Avulamanohar/leetcode/tree/master/0021-merge-two-sorted-lists) |
 | [0083-remove-duplicates-from-sorted-list](https://github.com/Avulamanohar/leetcode/tree/master/0083-remove-duplicates-from-sorted-list) |
 | [0109-convert-sorted-list-to-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0109-convert-sorted-list-to-binary-search-tree) |
 | [0114-flatten-binary-tree-to-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0114-flatten-binary-tree-to-linked-list) |
