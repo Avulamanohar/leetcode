@@ -361,6 +361,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avulamanohar/leetcode/tree/master/0283-move-zeroes) |
 | [0414-third-maximum-number](https://github.com/Avulamanohar/leetcode/tree/master/0414-third-maximum-number) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0485-max-consecutive-ones](https://github.com/Avulamanohar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
@@ -427,6 +428,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0290-word-pattern](https://github.com/Avulamanohar/leetcode/tree/master/0290-word-pattern) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
+| [0442-find-all-duplicates-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0508-most-frequent-subtree-sum](https://github.com/Avulamanohar/leetcode/tree/master/0508-most-frequent-subtree-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
