@@ -309,6 +309,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0005-longest-palindromic-substring](https://github.com/Avulamanohar/leetcode/tree/master/0005-longest-palindromic-substring) |
 | [0053-maximum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/0053-maximum-subarray) |
+| [0055-jump-game](https://github.com/Avulamanohar/leetcode/tree/master/0055-jump-game) |
 | [0062-unique-paths](https://github.com/Avulamanohar/leetcode/tree/master/0062-unique-paths) |
 | [0064-minimum-path-sum](https://github.com/Avulamanohar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Avulamanohar/leetcode/tree/master/0070-climbing-stairs) |
@@ -335,6 +336,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0048-rotate-image](https://github.com/Avulamanohar/leetcode/tree/master/0048-rotate-image) |
 | [0053-maximum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/0053-maximum-subarray) |
 | [0054-spiral-matrix](https://github.com/Avulamanohar/leetcode/tree/master/0054-spiral-matrix) |
+| [0055-jump-game](https://github.com/Avulamanohar/leetcode/tree/master/0055-jump-game) |
 | [0059-spiral-matrix-ii](https://github.com/Avulamanohar/leetcode/tree/master/0059-spiral-matrix-ii) |
 | [0064-minimum-path-sum](https://github.com/Avulamanohar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0075-sort-colors](https://github.com/Avulamanohar/leetcode/tree/master/0075-sort-colors) |
@@ -484,6 +486,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Greedy
 |  |
 | ------- |
+| [0055-jump-game](https://github.com/Avulamanohar/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Avulamanohar/leetcode/tree/master/0135-candy) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
