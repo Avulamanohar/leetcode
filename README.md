@@ -324,6 +324,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Avulamanohar/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Avulamanohar/leetcode/tree/master/0322-coin-change) |
 | [0416-partition-equal-subset-sum](https://github.com/Avulamanohar/leetcode/tree/master/0416-partition-equal-subset-sum) |
+| [0516-longest-palindromic-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Avulamanohar/leetcode/tree/master/0518-coin-change-ii) |
 | [0647-palindromic-substrings](https://github.com/Avulamanohar/leetcode/tree/master/0647-palindromic-substrings) |
 | [0747-min-cost-climbing-stairs](https://github.com/Avulamanohar/leetcode/tree/master/0747-min-cost-climbing-stairs) |
@@ -480,6 +481,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
 | [0434-number-of-segments-in-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0434-number-of-segments-in-a-string) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Avulamanohar/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
+| [0516-longest-palindromic-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0520-detect-capital](https://github.com/Avulamanohar/leetcode/tree/master/0520-detect-capital) |
 | [0541-reverse-string-ii](https://github.com/Avulamanohar/leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Avulamanohar/leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
