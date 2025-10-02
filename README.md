@@ -318,6 +318,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0064-minimum-path-sum](https://github.com/Avulamanohar/leetcode/tree/master/0064-minimum-path-sum) |
 | [0070-climbing-stairs](https://github.com/Avulamanohar/leetcode/tree/master/0070-climbing-stairs) |
 | [0072-edit-distance](https://github.com/Avulamanohar/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Avulamanohar/leetcode/tree/master/0091-decode-ways) |
 | [0118-pascals-triangle](https://github.com/Avulamanohar/leetcode/tree/master/0118-pascals-triangle) |
 | [0119-pascals-triangle-ii](https://github.com/Avulamanohar/leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Avulamanohar/leetcode/tree/master/0121-best-time-to-buy-and-sell-stock) |
@@ -476,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0022-generate-parentheses](https://github.com/Avulamanohar/leetcode/tree/master/0022-generate-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0072-edit-distance](https://github.com/Avulamanohar/leetcode/tree/master/0072-edit-distance) |
+| [0091-decode-ways](https://github.com/Avulamanohar/leetcode/tree/master/0091-decode-ways) |
 | [0125-valid-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0125-valid-palindrome) |
 | [0131-palindrome-partitioning](https://github.com/Avulamanohar/leetcode/tree/master/0131-palindrome-partitioning) |
 | [0151-reverse-words-in-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0151-reverse-words-in-a-string) |
