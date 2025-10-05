@@ -294,6 +294,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0167-two-sum-ii-input-array-is-sorted](https://github.com/Avulamanohar/leetcode/tree/master/0167-two-sum-ii-input-array-is-sorted) |
 | [0222-count-complete-tree-nodes](https://github.com/Avulamanohar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Avulamanohar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0367-valid-perfect-square](https://github.com/Avulamanohar/leetcode/tree/master/0367-valid-perfect-square) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -306,6 +307,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0222-count-complete-tree-nodes](https://github.com/Avulamanohar/leetcode/tree/master/0222-count-complete-tree-nodes) |
 | [0231-power-of-two](https://github.com/Avulamanohar/leetcode/tree/master/0231-power-of-two) |
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
+| [0287-find-the-duplicate-number](https://github.com/Avulamanohar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Dynamic Programming
@@ -381,6 +383,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0229-majority-element-ii](https://github.com/Avulamanohar/leetcode/tree/master/0229-majority-element-ii) |
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0283-move-zeroes](https://github.com/Avulamanohar/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Avulamanohar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Avulamanohar/leetcode/tree/master/0322-coin-change) |
 | [0414-third-maximum-number](https://github.com/Avulamanohar/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Avulamanohar/leetcode/tree/master/0416-partition-equal-subset-sum) |
@@ -424,6 +427,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0189-rotate-array](https://github.com/Avulamanohar/leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Avulamanohar/leetcode/tree/master/0283-move-zeroes) |
+| [0287-find-the-duplicate-number](https://github.com/Avulamanohar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0344-reverse-string](https://github.com/Avulamanohar/leetcode/tree/master/0344-reverse-string) |
 | [0345-reverse-vowels-of-a-string](https://github.com/Avulamanohar/leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0392-is-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0392-is-subsequence) |
