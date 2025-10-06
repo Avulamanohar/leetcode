@@ -312,6 +312,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0268-missing-number](https://github.com/Avulamanohar/leetcode/tree/master/0268-missing-number) |
 | [0287-find-the-duplicate-number](https://github.com/Avulamanohar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
+| [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
 ## Dynamic Programming
 |  |
@@ -333,6 +334,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0198-house-robber](https://github.com/Avulamanohar/leetcode/tree/master/0198-house-robber) |
 | [0322-coin-change](https://github.com/Avulamanohar/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0392-is-subsequence) |
+| [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0416-partition-equal-subset-sum](https://github.com/Avulamanohar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Avulamanohar/leetcode/tree/master/0518-coin-change-ii) |
@@ -536,6 +538,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0055-jump-game](https://github.com/Avulamanohar/leetcode/tree/master/0055-jump-game) |
 | [0135-candy](https://github.com/Avulamanohar/leetcode/tree/master/0135-candy) |
+| [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
 | [0678-valid-parenthesis-string](https://github.com/Avulamanohar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
@@ -719,6 +722,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0070-climbing-stairs](https://github.com/Avulamanohar/leetcode/tree/master/0070-climbing-stairs) |
+| [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 ## Combinatorics
 |  |
 | ------- |
