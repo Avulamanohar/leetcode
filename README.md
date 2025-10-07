@@ -298,6 +298,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Avulamanohar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0349-intersection-of-two-arrays](https://github.com/Avulamanohar/leetcode/tree/master/0349-intersection-of-two-arrays) |
 | [0367-valid-perfect-square](https://github.com/Avulamanohar/leetcode/tree/master/0367-valid-perfect-square) |
+| [0410-split-array-largest-sum](https://github.com/Avulamanohar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0907-koko-eating-bananas](https://github.com/Avulamanohar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Avulamanohar/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
@@ -337,6 +338,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0322-coin-change](https://github.com/Avulamanohar/leetcode/tree/master/0322-coin-change) |
 | [0392-is-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0392-is-subsequence) |
 | [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
+| [0410-split-array-largest-sum](https://github.com/Avulamanohar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0416-partition-equal-subset-sum](https://github.com/Avulamanohar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0516-longest-palindromic-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0516-longest-palindromic-subsequence) |
 | [0518-coin-change-ii](https://github.com/Avulamanohar/leetcode/tree/master/0518-coin-change-ii) |
@@ -393,6 +395,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0287-find-the-duplicate-number](https://github.com/Avulamanohar/leetcode/tree/master/0287-find-the-duplicate-number) |
 | [0322-coin-change](https://github.com/Avulamanohar/leetcode/tree/master/0322-coin-change) |
 | [0349-intersection-of-two-arrays](https://github.com/Avulamanohar/leetcode/tree/master/0349-intersection-of-two-arrays) |
+| [0410-split-array-largest-sum](https://github.com/Avulamanohar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0414-third-maximum-number](https://github.com/Avulamanohar/leetcode/tree/master/0414-third-maximum-number) |
 | [0416-partition-equal-subset-sum](https://github.com/Avulamanohar/leetcode/tree/master/0416-partition-equal-subset-sum) |
 | [0442-find-all-duplicates-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0442-find-all-duplicates-in-an-array) |
@@ -545,6 +548,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0135-candy](https://github.com/Avulamanohar/leetcode/tree/master/0135-candy) |
 | [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0409-longest-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/0409-longest-palindrome) |
+| [0410-split-array-largest-sum](https://github.com/Avulamanohar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0678-valid-parenthesis-string](https://github.com/Avulamanohar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1448-maximum-69-number](https://github.com/Avulamanohar/leetcode/tree/master/1448-maximum-69-number) |
@@ -660,6 +664,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Prefix Sum
 |  |
 | ------- |
+| [0410-split-array-largest-sum](https://github.com/Avulamanohar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0560-subarray-sum-equals-k](https://github.com/Avulamanohar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 ## Matrix
 |  |
