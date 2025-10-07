@@ -301,6 +301,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0410-split-array-largest-sum](https://github.com/Avulamanohar/leetcode/tree/master/0410-split-array-largest-sum) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0907-koko-eating-bananas](https://github.com/Avulamanohar/leetcode/tree/master/0907-koko-eating-bananas) |
+| [0910-nth-magical-number](https://github.com/Avulamanohar/leetcode/tree/master/0910-nth-magical-number) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Avulamanohar/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Avulamanohar/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -605,6 +606,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0367-valid-perfect-square](https://github.com/Avulamanohar/leetcode/tree/master/0367-valid-perfect-square) |
 | [0412-fizz-buzz](https://github.com/Avulamanohar/leetcode/tree/master/0412-fizz-buzz) |
 | [0507-perfect-number](https://github.com/Avulamanohar/leetcode/tree/master/0507-perfect-number) |
+| [0910-nth-magical-number](https://github.com/Avulamanohar/leetcode/tree/master/0910-nth-magical-number) |
 | [1448-maximum-69-number](https://github.com/Avulamanohar/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Avulamanohar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
