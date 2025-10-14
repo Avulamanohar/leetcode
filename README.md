@@ -430,6 +430,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2271-rearrange-array-elements-by-sign](https://github.com/Avulamanohar/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Avulamanohar/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Avulamanohar/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
@@ -501,6 +502,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Avulamanohar/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 ## String
 |  |
@@ -553,6 +555,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0003-longest-substring-without-repeating-characters](https://github.com/Avulamanohar/leetcode/tree/master/0003-longest-substring-without-repeating-characters) |
+| [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 ## Greedy
 |  |
 | ------- |
