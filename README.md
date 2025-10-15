@@ -14,6 +14,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0155-min-stack](https://github.com/Avulamanohar/leetcode/tree/master/0155-min-stack) |
 | [0234-palindrome-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0496-next-greater-element-i](https://github.com/Avulamanohar/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Avulamanohar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0678-valid-parenthesis-string](https://github.com/Avulamanohar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
@@ -411,6 +412,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0485-max-consecutive-ones](https://github.com/Avulamanohar/leetcode/tree/master/0485-max-consecutive-ones) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [0496-next-greater-element-i](https://github.com/Avulamanohar/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Avulamanohar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0518-coin-change-ii](https://github.com/Avulamanohar/leetcode/tree/master/0518-coin-change-ii) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0540-single-element-in-a-sorted-array](https://github.com/Avulamanohar/leetcode/tree/master/0540-single-element-in-a-sorted-array) |
@@ -743,6 +745,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0496-next-greater-element-i](https://github.com/Avulamanohar/leetcode/tree/master/0496-next-greater-element-i) |
+| [0503-next-greater-element-ii](https://github.com/Avulamanohar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0654-maximum-binary-tree) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Merge Sort
