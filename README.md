@@ -326,6 +326,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
 | [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Avulamanohar/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
 | ------- |
@@ -641,6 +642,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1448-maximum-69-number](https://github.com/Avulamanohar/leetcode/tree/master/1448-maximum-69-number) |
 | [2032-largest-odd-number-in-string](https://github.com/Avulamanohar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
+| [3676-smallest-number-with-all-set-bits](https://github.com/Avulamanohar/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Backtracking
 |  |
 | ------- |
