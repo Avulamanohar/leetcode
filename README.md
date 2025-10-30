@@ -450,6 +450,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2714-left-and-right-sum-differences](https://github.com/Avulamanohar/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Avulamanohar/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2876-number-of-employees-who-met-the-target](https://github.com/Avulamanohar/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Avulamanohar/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 ## Two Pointers
 |  |
