@@ -98,6 +98,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avulamanohar/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Avulamanohar/leetcode/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -164,6 +165,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avulamanohar/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1428-jump-game-iii](https://github.com/Avulamanohar/leetcode/tree/master/1428-jump-game-iii) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Avulamanohar/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
@@ -237,6 +239,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1116-maximum-level-sum-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1116-maximum-level-sum-of-a-binary-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avulamanohar/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [1544-count-good-nodes-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1544-count-good-nodes-in-binary-tree) |
 | [1731-even-odd-tree](https://github.com/Avulamanohar/leetcode/tree/master/1731-even-odd-tree) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
@@ -608,6 +611,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0414-third-maximum-number](https://github.com/Avulamanohar/leetcode/tree/master/0414-third-maximum-number) |
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avulamanohar/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2646-kth-largest-sum-in-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/2646-kth-largest-sum-in-a-binary-tree) |
 | [3509-k-th-largest-perfect-subtree-size-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/3509-k-th-largest-perfect-subtree-size-in-binary-tree) |
 ## Trie
@@ -779,6 +783,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1114-binary-search-tree-to-greater-sum-tree](https://github.com/Avulamanohar/leetcode/tree/master/1114-binary-search-tree-to-greater-sum-tree) |
 | [1285-balance-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/1285-balance-a-binary-search-tree) |
+| [1427-all-elements-in-two-binary-search-trees](https://github.com/Avulamanohar/leetcode/tree/master/1427-all-elements-in-two-binary-search-trees) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 ## Hash Function
 |  |
