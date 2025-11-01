@@ -1,12 +1,10 @@
 import java.util.*;
 class Solution {
     public void moveZeroes(int[] nums)
-     { int i,j;
-       int n=nums.length;
-       int count=0;
-       ArrayList<Integer> arr=new ArrayList<>();
-       for(i=0;i<n;i++)
-       {
+     { int count=0;
+     List<Integer> arr=new ArrayList<>();
+     for(int i=0;i<nums.length;i++)
+     {
         if(nums[i]==0)
         {
             count++;
@@ -15,16 +13,16 @@ class Solution {
         {
             arr.add(nums[i]);
         }
-       }
-       while(count>0)
-       {
+     }
+     for(int i=0;i<count;i++)
+     {
         arr.add(0);
-        count--;
-       }
-       for(i=0;i<n;i++)
-       {
-        nums[i]=arr.get(i);
-       }
+     }
+     int j=0;
+     for(int i:arr)
+     {nums[j++]=i;
+
+     }
         
     }
 }
