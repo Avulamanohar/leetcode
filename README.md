@@ -453,6 +453,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Avulamanohar/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Avulamanohar/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
+| [2411-spiral-matrix-iv](https://github.com/Avulamanohar/leetcode/tree/master/2411-spiral-matrix-iv) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0921-spiral-matrix-iii](https://github.com/Avulamanohar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Avulamanohar/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
+| [2411-spiral-matrix-iv](https://github.com/Avulamanohar/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Math
 |  |
 | ------- |
@@ -748,6 +750,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0304-range-sum-query-2d-immutable](https://github.com/Avulamanohar/leetcode/tree/master/0304-range-sum-query-2d-immutable) |
 | [0921-spiral-matrix-iii](https://github.com/Avulamanohar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [2015-determine-whether-matrix-can-be-obtained-by-rotation](https://github.com/Avulamanohar/leetcode/tree/master/2015-determine-whether-matrix-can-be-obtained-by-rotation) |
+| [2411-spiral-matrix-iv](https://github.com/Avulamanohar/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Enumeration
 |  |
 | ------- |
@@ -773,6 +776,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
+| [2411-spiral-matrix-iv](https://github.com/Avulamanohar/leetcode/tree/master/2411-spiral-matrix-iv) |
 ## Binary Search Tree
 |  |
 | ------- |
