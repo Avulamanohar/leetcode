@@ -1,62 +1,57 @@
 class Solution {
     public int[] searchRange(int[] nums, int target)
     {
-        int i,j;
-        int ans1=-1;
-        int ans2=-1;
-        int n=nums.length;
-          int b[]=new int[2];
-          if(n==0)
-          {
-            b[0]=-1;
-            b[1]=-1;
-            return b;
-          }
-        i=0;
-        j=n-1;
+     int a[]=new int[2];
+     a[0]=low(nums,target);
+     a[1]=high(nums,target);
+     return a;   
+    }
+    public int low(int a[],int k)
+    {
+        int i=0;
+        int j=a.length-1;
         while(i<=j)
         {
             int mid=i+(j-i)/2;
-            if(nums[mid]<=target)
+            if(a[mid]>=k)
             {
-                ans1=mid;
-                i=mid+1;
-            }
-            else if(nums[mid]>target)
-            {
-            
                 j=mid-1;
             }
+            else
+            {
+                i=mid+1;
+            }
+            
         }
-         i=0;
-        j=n-1;
+        if(i<a.length&&a[i]==k)
+            {
+                return i;
+            }
+            return -1;
+
+    }
+    public int high(int nums[],int k)
+    {
+         int i=0;
+        int j=nums.length-1;
         while(i<=j)
         {
             int mid=i+(j-i)/2;
-            if(nums[mid]<target)
+            if(nums[mid]<=k)
             {
-           
                 i=mid+1;
             }
-            else if(nums[mid]>=target)
+            else
             {
-                     ans2=mid;
-            
                 j=mid-1;
             }
-        }
-        if(ans1!=-1&&nums[ans1]!=target)
-        {
-           ans1=-1;
-        }
-           if(ans2!=-1&&nums[ans2]!=target)
-        {
-           ans2=-1;
-        }
-      
-        b[1]=ans1;
-        b[0]=ans2;
-        return b; 
-        
+            
+        } 
+        if(j>-1&&nums[j]==k)
+            {
+                return j;
+            }
+            return -1;
+
     }
 }
