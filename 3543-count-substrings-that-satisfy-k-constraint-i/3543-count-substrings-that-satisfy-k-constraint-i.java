@@ -20,6 +20,10 @@ class Solution {
                 {
                     c++;
                 }
+                else
+                {
+                    break;
+                }
             }
         }
         return c;
