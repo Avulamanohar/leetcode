@@ -608,6 +608,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2235-capitalize-the-title](https://github.com/Avulamanohar/leetcode/tree/master/2235-capitalize-the-title) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Avulamanohar/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Avulamanohar/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Sliding Window
 |  |
 | ------- |
@@ -616,6 +617,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0480-sliding-window-median](https://github.com/Avulamanohar/leetcode/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Avulamanohar/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
 | ------- |
