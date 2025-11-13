@@ -477,6 +477,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2567-closest-nodes-queries-in-a-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/2567-closest-nodes-queries-in-a-binary-search-tree) |
 | [2714-left-and-right-sum-differences](https://github.com/Avulamanohar/leetcode/tree/master/2714-left-and-right-sum-differences) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Avulamanohar/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Avulamanohar/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Avulamanohar/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Avulamanohar/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avulamanohar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -624,6 +625,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Avulamanohar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [2866-longest-even-odd-subarray-with-threshold](https://github.com/Avulamanohar/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Avulamanohar/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
