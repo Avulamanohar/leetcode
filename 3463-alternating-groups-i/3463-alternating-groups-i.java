@@ -4,21 +4,34 @@ class Solution {
     {
         int c=0;
         int n=colors.length;
-        StringBuilder sb=new StringBuilder();
+        String sb="";
         for(int i=0;i<3;i++)
+        {   if(colors[i]==1)
         {
-            sb.append(colors[i]);
+            sb+="1";
+        }
+            else
+            {
+                sb+="0";
+            }
 
         }
-        if(sb.toString().equals("101")||sb.toString().equals("010"))
+        if(sb.equals("101")||sb.equals("010"))
         {
             c++;
         }
         for(int i=3;i<n+2;i++)
         {
-          sb=new StringBuilder(sb.toString().substring(1,3));
-          sb.append(colors[i%n]);
-          if(sb.toString().equals("101")||sb.toString().equals("010"))
+          sb=sb.substring(1,3);
+           if(colors[i%n]==1)
+        {
+            sb+="1";
+        }
+            else
+            {
+                sb+="0";
+            }
+          if(sb.equals("101")||sb.equals("010"))
         {
             c++;
         }
