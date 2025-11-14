@@ -459,6 +459,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Avulamanohar/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Avulamanohar/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1428-jump-game-iii](https://github.com/Avulamanohar/leetcode/tree/master/1428-jump-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avulamanohar/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Avulamanohar/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
@@ -565,6 +566,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Avulamanohar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -635,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Avulamanohar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0480-sliding-window-median](https://github.com/Avulamanohar/leetcode/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avulamanohar/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Avulamanohar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
@@ -726,6 +729,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0507-perfect-number](https://github.com/Avulamanohar/leetcode/tree/master/0507-perfect-number) |
 | [0523-continuous-subarray-sum](https://github.com/Avulamanohar/leetcode/tree/master/0523-continuous-subarray-sum) |
 | [0910-nth-magical-number](https://github.com/Avulamanohar/leetcode/tree/master/0910-nth-magical-number) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1448-maximum-69-number](https://github.com/Avulamanohar/leetcode/tree/master/1448-maximum-69-number) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
 | [2032-largest-odd-number-in-string](https://github.com/Avulamanohar/leetcode/tree/master/2032-largest-odd-number-in-string) |
@@ -806,6 +810,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0525-contiguous-array](https://github.com/Avulamanohar/leetcode/tree/master/0525-contiguous-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avulamanohar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0724-find-pivot-index](https://github.com/Avulamanohar/leetcode/tree/master/0724-find-pivot-index) |
+| [1370-count-number-of-nice-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Avulamanohar/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Avulamanohar/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
 | [1603-running-sum-of-1d-array](https://github.com/Avulamanohar/leetcode/tree/master/1603-running-sum-of-1d-array) |
