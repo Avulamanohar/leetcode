@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Avulamanohar/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
@@ -482,6 +483,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Avulamanohar/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Avulamanohar/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Avulamanohar/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avulamanohar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
@@ -566,6 +568,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2306-create-binary-tree-from-descriptions](https://github.com/Avulamanohar/leetcode/tree/master/2306-create-binary-tree-from-descriptions) |
 | [2461-amount-of-time-for-binary-tree-to-be-infected](https://github.com/Avulamanohar/leetcode/tree/master/2461-amount-of-time-for-binary-tree-to-be-infected) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Avulamanohar/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avulamanohar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
@@ -633,6 +636,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Avulamanohar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Avulamanohar/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Avulamanohar/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Avulamanohar/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
@@ -678,6 +682,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Avulamanohar/leetcode/tree/master/0014-longest-common-prefix) |
+| [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 ## Simulation
 |  |
 | ------- |
