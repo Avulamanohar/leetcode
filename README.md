@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avulamanohar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Two Pointers
 |  |
 | ------- |
@@ -636,6 +637,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Avulamanohar/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Greedy
 |  |
 | ------- |
@@ -717,6 +719,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Avulamanohar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Avulamanohar/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Backtracking
 |  |
 | ------- |
@@ -820,6 +823,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Avulamanohar/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Linked List
 |  |
 | ------- |
@@ -912,4 +916,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0315-count-of-smaller-numbers-after-self](https://github.com/Avulamanohar/leetcode/tree/master/0315-count-of-smaller-numbers-after-self) |
 | [0493-reverse-pairs](https://github.com/Avulamanohar/leetcode/tree/master/0493-reverse-pairs) |
+## Number Theory
+|  |
+| ------- |
+| [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 <!---LeetCode Topics End-->
