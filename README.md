@@ -485,6 +485,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Avulamanohar/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3463-alternating-groups-i](https://github.com/Avulamanohar/leetcode/tree/master/3463-alternating-groups-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avulamanohar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
@@ -639,6 +640,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Avulamanohar/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
+| [3463-alternating-groups-i](https://github.com/Avulamanohar/leetcode/tree/master/3463-alternating-groups-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Avulamanohar/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 | [3644-minimum-positive-sum-subarray](https://github.com/Avulamanohar/leetcode/tree/master/3644-minimum-positive-sum-subarray) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
