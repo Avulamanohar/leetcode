@@ -460,6 +460,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 | [1056-capacity-to-ship-packages-within-d-days](https://github.com/Avulamanohar/leetcode/tree/master/1056-capacity-to-ship-packages-within-d-days) |
 | [1428-jump-game-iii](https://github.com/Avulamanohar/leetcode/tree/master/1428-jump-game-iii) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avulamanohar/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Avulamanohar/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
 | [1603-running-sum-of-1d-array](https://github.com/Avulamanohar/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Avulamanohar/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
@@ -634,6 +635,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Avulamanohar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0480-sliding-window-median](https://github.com/Avulamanohar/leetcode/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avulamanohar/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Avulamanohar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Avulamanohar/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
