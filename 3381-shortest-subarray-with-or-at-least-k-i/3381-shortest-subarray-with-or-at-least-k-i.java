@@ -11,6 +11,7 @@ class Solution {
              if(f>=k)
              {
                 b=Math.min(b,j-i+1);
+                break;
              }
             }
         }
