@@ -333,6 +333,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3676-smallest-number-with-all-set-bits](https://github.com/Avulamanohar/leetcode/tree/master/3676-smallest-number-with-all-set-bits) |
 ## Dynamic Programming
 |  |
@@ -481,6 +482,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Avulamanohar/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [2876-number-of-employees-who-met-the-target](https://github.com/Avulamanohar/leetcode/tree/master/2876-number-of-employees-who-met-the-target) |
 | [3106-length-of-the-longest-subsequence-that-sums-to-target](https://github.com/Avulamanohar/leetcode/tree/master/3106-length-of-the-longest-subsequence-that-sums-to-target) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avulamanohar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Two Pointers
 |  |
@@ -630,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Avulamanohar/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Avulamanohar/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
+| [3381-shortest-subarray-with-or-at-least-k-i](https://github.com/Avulamanohar/leetcode/tree/master/3381-shortest-subarray-with-or-at-least-k-i) |
 | [3543-count-substrings-that-satisfy-k-constraint-i](https://github.com/Avulamanohar/leetcode/tree/master/3543-count-substrings-that-satisfy-k-constraint-i) |
 ## Greedy
 |  |
