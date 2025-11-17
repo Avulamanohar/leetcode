@@ -463,6 +463,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1428-jump-game-iii](https://github.com/Avulamanohar/leetcode/tree/master/1428-jump-game-iii) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avulamanohar/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1514-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Avulamanohar/leetcode/tree/master/1514-minimum-value-to-get-positive-step-by-step-sum) |
+| [1548-check-if-all-1s-are-at-least-length-k-places-away](https://github.com/Avulamanohar/leetcode/tree/master/1548-check-if-all-1s-are-at-least-length-k-places-away) |
 | [1580-shuffle-the-array](https://github.com/Avulamanohar/leetcode/tree/master/1580-shuffle-the-array) |
 | [1603-running-sum-of-1d-array](https://github.com/Avulamanohar/leetcode/tree/master/1603-running-sum-of-1d-array) |
 | [1605-minimum-number-of-days-to-make-m-bouquets](https://github.com/Avulamanohar/leetcode/tree/master/1605-minimum-number-of-days-to-make-m-bouquets) |
