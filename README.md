@@ -631,6 +631,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2032-largest-odd-number-in-string](https://github.com/Avulamanohar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Avulamanohar/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Avulamanohar/leetcode/tree/master/2235-capitalize-the-title) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avulamanohar/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Avulamanohar/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Avulamanohar/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -709,6 +710,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1041-available-captures-for-rook](https://github.com/Avulamanohar/leetcode/tree/master/1041-available-captures-for-rook) |
 | [2048-build-array-from-permutation](https://github.com/Avulamanohar/leetcode/tree/master/2048-build-array-from-permutation) |
 | [2058-concatenation-of-array](https://github.com/Avulamanohar/leetcode/tree/master/2058-concatenation-of-array) |
+| [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avulamanohar/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
 | [2271-rearrange-array-elements-by-sign](https://github.com/Avulamanohar/leetcode/tree/master/2271-rearrange-array-elements-by-sign) |
 | [2343-count-unguarded-cells-in-the-grid](https://github.com/Avulamanohar/leetcode/tree/master/2343-count-unguarded-cells-in-the-grid) |
 | [2411-spiral-matrix-iv](https://github.com/Avulamanohar/leetcode/tree/master/2411-spiral-matrix-iv) |
