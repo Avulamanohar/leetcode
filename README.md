@@ -451,6 +451,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Avulamanohar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0654-maximum-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0654-maximum-binary-tree) |
+| [0717-1-bit-and-2-bit-characters](https://github.com/Avulamanohar/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Avulamanohar/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Avulamanohar/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0907-koko-eating-bananas](https://github.com/Avulamanohar/leetcode/tree/master/0907-koko-eating-bananas) |
