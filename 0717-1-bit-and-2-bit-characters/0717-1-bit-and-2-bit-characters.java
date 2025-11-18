@@ -13,12 +13,8 @@ class Solution {
              return   false;
             }
         }
-        StringBuilder sb=new StringBuilder();
-      for(int i=0;i<n;i++)
-      {
-        sb.append(bits[i]);
-      }
-      String s=sb.toString();
+ 
+     
       int f=-1;
       int i=0;
       while(i<n)
