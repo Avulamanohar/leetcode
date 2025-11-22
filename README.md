@@ -643,6 +643,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [2231-find-first-palindromic-string-in-the-array](https://github.com/Avulamanohar/leetcode/tree/master/2231-find-first-palindromic-string-in-the-array) |
 | [2235-capitalize-the-title](https://github.com/Avulamanohar/leetcode/tree/master/2235-capitalize-the-title) |
 | [2260-divide-a-string-into-groups-of-size-k](https://github.com/Avulamanohar/leetcode/tree/master/2260-divide-a-string-into-groups-of-size-k) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Avulamanohar/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [3349-maximum-length-substring-with-two-occurrences](https://github.com/Avulamanohar/leetcode/tree/master/3349-maximum-length-substring-with-two-occurrences) |
 | [3412-permutation-difference-between-two-strings](https://github.com/Avulamanohar/leetcode/tree/master/3412-permutation-difference-between-two-strings) |
 | [3493-maximum-number-of-operations-to-move-ones-to-the-end](https://github.com/Avulamanohar/leetcode/tree/master/3493-maximum-number-of-operations-to-move-ones-to-the-end) |
@@ -661,6 +662,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
 | [1987-substrings-of-size-three-with-distinct-characters](https://github.com/Avulamanohar/leetcode/tree/master/1987-substrings-of-size-three-with-distinct-characters) |
 | [2112-minimum-difference-between-highest-and-lowest-of-k-scores](https://github.com/Avulamanohar/leetcode/tree/master/2112-minimum-difference-between-highest-and-lowest-of-k-scores) |
+| [2379-minimum-recolors-to-get-k-consecutive-black-blocks](https://github.com/Avulamanohar/leetcode/tree/master/2379-minimum-recolors-to-get-k-consecutive-black-blocks) |
 | [2552-maximum-sum-of-distinct-subarrays-with-length-k](https://github.com/Avulamanohar/leetcode/tree/master/2552-maximum-sum-of-distinct-subarrays-with-length-k) |
 | [2856-count-complete-subarrays-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/2856-count-complete-subarrays-in-an-array) |
 | [2866-longest-even-odd-subarray-with-threshold](https://github.com/Avulamanohar/leetcode/tree/master/2866-longest-even-odd-subarray-with-threshold) |
