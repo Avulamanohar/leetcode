@@ -2,7 +2,7 @@ class Solution {
     public int minimumRecolors(String blocks, int k)
     {
         int n=blocks.length();
-        int m=101;
+        
         int c=0;
         String s=blocks;
         for(int i=0;i<k;i++)
@@ -12,7 +12,7 @@ class Solution {
                 c++;
             }
         }
-        m=Math.min(c,m);
+       int m=c;
         for(int i=k;i<n;i++)
         {
             if(s.charAt(i)=='W')
