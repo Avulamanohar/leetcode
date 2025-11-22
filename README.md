@@ -577,6 +577,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avulamanohar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1387-find-elements-in-a-contaminated-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1387-find-elements-in-a-contaminated-binary-tree) |
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
@@ -631,6 +632,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1030-smallest-string-starting-from-leaf](https://github.com/Avulamanohar/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1250-longest-common-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Avulamanohar/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avulamanohar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1437-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/1437-minimum-insertion-steps-to-make-a-string-palindrome) |
 | [1454-remove-palindromic-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/1454-remove-palindromic-subsequences) |
 | [1537-maximum-score-after-splitting-a-string](https://github.com/Avulamanohar/leetcode/tree/master/1537-maximum-score-after-splitting-a-string) |
@@ -652,6 +654,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0219-contains-duplicate-ii](https://github.com/Avulamanohar/leetcode/tree/master/0219-contains-duplicate-ii) |
 | [0480-sliding-window-median](https://github.com/Avulamanohar/leetcode/tree/master/0480-sliding-window-median) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avulamanohar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
 | [1370-count-number-of-nice-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1370-count-number-of-nice-subarrays) |
 | [1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold](https://github.com/Avulamanohar/leetcode/tree/master/1445-number-of-sub-arrays-of-size-k-and-average-greater-than-or-equal-to-threshold) |
 | [1586-longest-subarray-of-1s-after-deleting-one-element](https://github.com/Avulamanohar/leetcode/tree/master/1586-longest-subarray-of-1s-after-deleting-one-element) |
