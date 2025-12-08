@@ -762,6 +762,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1523-count-odd-numbers-in-an-interval-range](https://github.com/Avulamanohar/leetcode/tree/master/1523-count-odd-numbers-in-an-interval-range) |
 | [1636-number-of-substrings-with-only-1s](https://github.com/Avulamanohar/leetcode/tree/master/1636-number-of-substrings-with-only-1s) |
 | [1693-sum-of-all-odd-length-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/1693-sum-of-all-odd-length-subarrays) |
+| [1925-count-square-sum-triples](https://github.com/Avulamanohar/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2032-largest-odd-number-in-string](https://github.com/Avulamanohar/leetcode/tree/master/2032-largest-odd-number-in-string) |
 | [2432-number-of-zero-filled-subarrays](https://github.com/Avulamanohar/leetcode/tree/master/2432-number-of-zero-filled-subarrays) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Avulamanohar/leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
@@ -870,6 +871,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Enumeration
 |  |
 | ------- |
+| [1925-count-square-sum-triples](https://github.com/Avulamanohar/leetcode/tree/master/1925-count-square-sum-triples) |
 | [2844-sum-of-squares-of-special-elements](https://github.com/Avulamanohar/leetcode/tree/master/2844-sum-of-squares-of-special-elements) |
 | [3702-maximum-subarray-with-equal-products](https://github.com/Avulamanohar/leetcode/tree/master/3702-maximum-subarray-with-equal-products) |
 ## Linked List
