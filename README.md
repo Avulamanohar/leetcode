@@ -21,6 +21,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0776-n-ary-tree-postorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/0776-n-ary-tree-postorder-traversal) |
 | [0933-increasing-order-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0933-increasing-order-search-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Avulamanohar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Design
 |  |
@@ -465,6 +466,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0907-koko-eating-bananas](https://github.com/Avulamanohar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Avulamanohar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Avulamanohar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1028-interval-list-intersections](https://github.com/Avulamanohar/leetcode/tree/master/1028-interval-list-intersections) |
 | [1041-available-captures-for-rook](https://github.com/Avulamanohar/leetcode/tree/master/1041-available-captures-for-rook) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
@@ -918,6 +920,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0908-middle-of-the-linked-list) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Avulamanohar/leetcode/tree/master/2411-spiral-matrix-iv) |
@@ -954,6 +957,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0503-next-greater-element-ii](https://github.com/Avulamanohar/leetcode/tree/master/0503-next-greater-element-ii) |
 | [0654-maximum-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0654-maximum-binary-tree) |
 | [0943-sum-of-subarray-minimums](https://github.com/Avulamanohar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1019-next-greater-node-in-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
 ## Merge Sort
 |  |
