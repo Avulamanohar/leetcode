@@ -24,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Avulamanohar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Design
 |  |
 | ------- |
@@ -850,6 +851,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0234-palindrome-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0326-power-of-three](https://github.com/Avulamanohar/leetcode/tree/master/0326-power-of-three) |
 | [0342-power-of-four](https://github.com/Avulamanohar/leetcode/tree/master/0342-power-of-four) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Union Find
 |  |
 | ------- |
@@ -927,6 +929,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
 | [2411-spiral-matrix-iv](https://github.com/Avulamanohar/leetcode/tree/master/2411-spiral-matrix-iv) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 | [3501-delete-nodes-from-linked-list-present-in-array](https://github.com/Avulamanohar/leetcode/tree/master/3501-delete-nodes-from-linked-list-present-in-array) |
 ## Binary Search Tree
 |  |
@@ -962,6 +965,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0943-sum-of-subarray-minimums](https://github.com/Avulamanohar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1050-construct-binary-search-tree-from-preorder-traversal](https://github.com/Avulamanohar/leetcode/tree/master/1050-construct-binary-search-tree-from-preorder-traversal) |
+| [2487-remove-nodes-from-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2487-remove-nodes-from-linked-list) |
 ## Merge Sort
 |  |
 | ------- |
