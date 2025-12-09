@@ -19,10 +19,10 @@ class Solution {
             arr.add(head.val);
             head=head.next;
         }
-        Collections.reverse(arr);
-        for(int i=0;i<arr.size();i++)
+    int n=arr.size();
+        for(int i=n-1;i>=0;i--)
         {
-            c+=Math.pow(2,i)*arr.get(i);
+            c+=Math.pow(2,n-1-i)*arr.get(i);
 
         }
         return c;
