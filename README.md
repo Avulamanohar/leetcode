@@ -138,6 +138,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0257-binary-tree-paths](https://github.com/Avulamanohar/leetcode/tree/master/0257-binary-tree-paths) |
 | [0297-serialize-and-deserialize-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0297-serialize-and-deserialize-binary-tree) |
 | [0404-sum-of-left-leaves](https://github.com/Avulamanohar/leetcode/tree/master/0404-sum-of-left-leaves) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0437-path-sum-iii](https://github.com/Avulamanohar/leetcode/tree/master/0437-path-sum-iii) |
 | [0449-serialize-and-deserialize-bst](https://github.com/Avulamanohar/leetcode/tree/master/0449-serialize-and-deserialize-bst) |
 | [0501-find-mode-in-binary-search-tree](https://github.com/Avulamanohar/leetcode/tree/master/0501-find-mode-in-binary-search-tree) |
@@ -915,6 +916,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0206-reverse-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0206-reverse-linked-list) |
 | [0234-palindrome-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0234-palindrome-linked-list) |
 | [0237-delete-node-in-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0908-middle-of-the-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
 | [2216-delete-the-middle-node-of-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/2216-delete-the-middle-node-of-a-linked-list) |
@@ -1001,4 +1003,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0561-array-partition](https://github.com/Avulamanohar/leetcode/tree/master/0561-array-partition) |
+## Doubly-Linked List
+|  |
+| ------- |
+| [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 <!---LeetCode Topics End-->
