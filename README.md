@@ -469,6 +469,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0717-1-bit-and-2-bit-characters](https://github.com/Avulamanohar/leetcode/tree/master/0717-1-bit-and-2-bit-characters) |
 | [0724-find-pivot-index](https://github.com/Avulamanohar/leetcode/tree/master/0724-find-pivot-index) |
 | [0747-min-cost-climbing-stairs](https://github.com/Avulamanohar/leetcode/tree/master/0747-min-cost-climbing-stairs) |
+| [0817-linked-list-components](https://github.com/Avulamanohar/leetcode/tree/master/0817-linked-list-components) |
 | [0907-koko-eating-bananas](https://github.com/Avulamanohar/leetcode/tree/master/0907-koko-eating-bananas) |
 | [0921-spiral-matrix-iii](https://github.com/Avulamanohar/leetcode/tree/master/0921-spiral-matrix-iii) |
 | [0943-sum-of-subarray-minimums](https://github.com/Avulamanohar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
@@ -595,6 +596,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0532-k-diff-pairs-in-an-array](https://github.com/Avulamanohar/leetcode/tree/master/0532-k-diff-pairs-in-an-array) |
 | [0560-subarray-sum-equals-k](https://github.com/Avulamanohar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
+| [0817-linked-list-components](https://github.com/Avulamanohar/leetcode/tree/master/0817-linked-list-components) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [1029-vertical-order-traversal-of-a-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/1029-vertical-order-traversal-of-a-binary-tree) |
 | [1358-number-of-substrings-containing-all-three-characters](https://github.com/Avulamanohar/leetcode/tree/master/1358-number-of-substrings-containing-all-three-characters) |
@@ -933,6 +935,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0237-delete-node-in-a-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0237-delete-node-in-a-linked-list) |
 | [0430-flatten-a-multilevel-doubly-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0430-flatten-a-multilevel-doubly-linked-list) |
 | [0445-add-two-numbers-ii](https://github.com/Avulamanohar/leetcode/tree/master/0445-add-two-numbers-ii) |
+| [0817-linked-list-components](https://github.com/Avulamanohar/leetcode/tree/master/0817-linked-list-components) |
 | [0908-middle-of-the-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/0908-middle-of-the-linked-list) |
 | [1019-next-greater-node-in-linked-list](https://github.com/Avulamanohar/leetcode/tree/master/1019-next-greater-node-in-linked-list) |
 | [1290-convert-binary-number-in-a-linked-list-to-integer](https://github.com/Avulamanohar/leetcode/tree/master/1290-convert-binary-number-in-a-linked-list-to-integer) |
