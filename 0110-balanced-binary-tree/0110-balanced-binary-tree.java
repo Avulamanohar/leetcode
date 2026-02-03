@@ -16,34 +16,23 @@
 class Solution {
     public boolean isBalanced(TreeNode root) 
     {
-        int a=depth(root);
-        if(a==-1)
-         {
-            return false;
-         }
-     return true;
+        boolean a[]=new boolean[1];
+        a[0]=true;
+        is(root,a);
+        return a[0];
     }
-    public int depth(TreeNode root)
+    public int is(TreeNode root,boolean ar[])
     {
-       if(root==null)
-       {
-        return 0;
-       }
-      int a=depth(root.left);
-      int b=depth(root.right);
-      if(a==-1)
-      {
-        return -1;
-      }
-      if(b==-1)
-      {
-        return -1;
-      }
-      if(Math.abs(a-b)>1)
-      {
-        return -1;
-      }
-      
-      return 1+Math.max(a,b);
+        if(root==null)
+        {
+            return 0;
+        }
+        int a=1+is(root.left,ar);
+        int b=1+is(root.right,ar);
+        if(Math.abs(a-b)>1)
+        {
+            ar[0]=false;
+        }
+        return Math.max(a,b);
     }
-}
+    }
