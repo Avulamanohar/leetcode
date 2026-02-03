@@ -1,25 +1,36 @@
 class Solution {
+    long mod=2*(int)1e9;
     public int uniquePaths(int m, int n) 
     {
-        int a[][]=new int[m][n];
-       for(int i=0;i<m;i++)
-       {
-        a[i][0]=1;
-       }
-       for(int i=0;i<n;i++)
-       {
-        a[0][i]=1;
-       }
-       return path(m,n,a);
-        
-    }
-    public int path(int m,int n,int a[][])
-    {
-        if(a[m-1][n-1]!=0)
+        int dp[][]=new int[m][n];
+        for(int i=0;i<m;i++)
         {
-            return a[m-1][n-1];
+            for(int j=0;j<n;j++)
+            {
+                dp[i][j]=-1;
+            }
         }
-        a[m-1][n-1]=path(m,n-1,a)+path(m-1,n,a);
-        return a[m-1][n-1];
+
+return uni(0,0,m-1,n-1,dp);
     }
-}
+    public int uni(int i,int j,int m,int n,int dp[][])
+    {
+        if(i==m&&j==n)
+        {
+            return 1;
+        }
+        if(i==m+1||j==n+1)
+        {
+            return 0;
+        }
+        if(dp[i][j]!=-1)
+        {
+            return dp[i][j];
+        }
+
+     int a=uni(i+1,j,m,n,dp);
+    int b=uni(i,j+1,m,n,dp);
+    return dp[i][j]=(int)(((long)(a+b))%mod);
+
+    }
+    }
