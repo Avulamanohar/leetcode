@@ -1,43 +1,37 @@
 class Solution {
     public boolean canPartition(int[] nums)
     {
-        int sum=0;
-        int n=nums.length;
-        for(int i=0;i<nums.length;i++)
-        {
-            sum+=nums[i];
-
-        }
-        if(sum%2==1)
+       int sum=0;
+       for(int i=0;i<nums.length;i++)
+       {
+        sum+=nums[i];
+       }
+       if(sum%2!=0)
+       {
+        return false;
+       }
+       int n=nums.length;
+       Boolean dp[][]=new Boolean[n][sum+1];
+       return can(0,nums,sum/2,dp);
+    }
+    public boolean can(int i,int nums[],int sum,Boolean dp[][])
+    {
+        if(sum<0)
         {
             return false;
         }
-        int m=sum/2;
-        Boolean dp[][]=new Boolean[n][m+1];
-        return partition(0,nums,0,m,dp);
-        
-    }
-    public boolean partition(int ind,int nums[],int sum,int m,Boolean dp[][])
-    {
-        if(sum==m)
+        if(sum==0)
         {
             return true;
         }
-        if(ind==nums.length)
+        if(i==nums.length)
         {
-            return sum==m;
+            return false;
         }
-        if(dp[ind][sum]!=null)
+        if(dp[i][sum]!=null)
         {
-            return dp[ind][sum];
+            return dp[i][sum];
         }
-        Boolean b=partition(ind+1,nums,sum,m,dp);
-        Boolean c=false;
-        if(m-sum>=nums[ind])
-        {
-            c=partition(ind+1,nums,sum+nums[ind],m,dp);
-        }
-        dp[ind][sum]=b||c;
-        return dp[ind][sum];
+        return dp[i][sum]=can(i+1,nums,sum-nums[i],dp)||can(i+1,nums,sum,dp);
     }
 }
