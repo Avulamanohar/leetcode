@@ -9,27 +9,27 @@ class Solution {
                 dp[i][j]=-1;
             }
         }
-        return Min(0,0,word1,word2,dp);
+        int a=min(0,0,word1,word2,dp);
+        int n=word1.length();
+        int m=word2.length();
+        return m+n-2*a;
         
     }
-    public int Min(int i,int j,String s,String s2,int dp[][])
+    public int min(int i,int j, String s1,String s2,int dp[][])
     {
-        if(i==s.length())
+        if(i==s1.length()||j==s2.length())
         {
-            return s2.length()-j;
-        }
-        if(j==s2.length())
-        {
-            return s.length()-i;
+            return 0;
         }
         if(dp[i][j]!=-1)
         {
             return dp[i][j];
         }
-        if(s.charAt(i)==s2.charAt(j))
+        if(s1.charAt(i)==s2.charAt(j))
         {
-            return Min(i+1,j+1,s,s2,dp);
+            return dp[i][j]=1+min(i+1,j+1,s1,s2,dp);
         }
-        return dp[i][j]=Math.min(1+Min(i+1,j,s,s2,dp),1+Min(i,j+1,s,s2,dp));
+        return dp[i][j]=Math.max(min(i,j+1,s1,s2,dp),min(i+1,j,s1,s2,dp));
     }
+   
 }
