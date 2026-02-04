@@ -386,6 +386,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0747-min-cost-climbing-stairs](https://github.com/Avulamanohar/leetcode/tree/master/0747-min-cost-climbing-stairs) |
 | [0931-minimum-falling-path-sum](https://github.com/Avulamanohar/leetcode/tree/master/0931-minimum-falling-path-sum) |
 | [0943-sum-of-subarray-minimums](https://github.com/Avulamanohar/leetcode/tree/master/0943-sum-of-subarray-minimums) |
+| [1092-shortest-common-supersequence](https://github.com/Avulamanohar/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1312-minimum-insertion-steps-to-make-a-string-palindrome](https://github.com/Avulamanohar/leetcode/tree/master/1312-minimum-insertion-steps-to-make-a-string-palindrome) |
@@ -665,6 +666,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0678-valid-parenthesis-string](https://github.com/Avulamanohar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Avulamanohar/leetcode/tree/master/0742-to-lower-case) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Avulamanohar/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
+| [1092-shortest-common-supersequence](https://github.com/Avulamanohar/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/1143-longest-common-subsequence) |
 | [1250-longest-common-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/1250-longest-common-subsequence) |
 | [1302-delete-characters-to-make-fancy-string](https://github.com/Avulamanohar/leetcode/tree/master/1302-delete-characters-to-make-fancy-string) |
