@@ -1,53 +1,46 @@
 class Solution {
-    public int coinChange(int[] coins, int amount)
-     { 
+    public int coinChange(int[] coins, int amount) {
+        int n = coins.length;
         Arrays.sort(coins);
-        
-        int n=coins.length;
-        int l=0;
-        int m=n-1;
-        while(l<=m)
+        Set<Integer> hs=new HashSet<>();
+        for(int i:coins)
         {
-            int temp=coins[l];
-            coins[l]=coins[m];
-            coins[m]=temp;
-            l++;
-            m--;
+            hs.add(i);
         }
-        int dp[][]=new int[n][amount+1]; 
-        for(int i=0;i<n;i++)
-        {
-            for(int j=0;j<amount+1;j++)
-            {
-                dp[i][j]=-1;
-            }
+        List<Integer> arr=new ArrayList<>(hs);
+        int a[]=new int[arr.size()];
+        for(int i=0;i<arr.size();i++)
+        { a[i]=arr.get(i);
+
         }
-        int g=part(0,0,amount,coins,dp);
-        return g>=1e9?-1:g;
+        int[][] dp = new int[a.length][amount + 1];
+        for (int[] row : dp) Arrays.fill(row, -1);
+        int ans = change(0, 0,amount, a, dp);
+        return ans >= 1e9 ? -1 : ans;
     }
-    public int part(int ind,int sum,int k,int a[],int dp[][])
-    {
-        if(sum==k)
-        {
-        return 0;
+    private int change(int ind,int j, int target, int[] nums, int[][] dp) {
+      
+        if (ind == nums.length) {
+            if (target == 0)
+                return 0;
+            else
+                return Integer.MAX_VALUE;
         }
-        if(ind==a.length)
-        {return (int)1e9;}
-        if(dp[ind][sum]!=-1)
-        {
-            return dp[ind][sum];
-        }
-        int ar=part(ind+1,sum,k,a,dp);
-        int br=(int)1e9;
-        if(k-sum>=a[ind])
-        {
-             int res=part(ind,sum+a[ind],k,a,dp);
-             if(res!=  (int)1e9)
-             {
-                br=1+res;
-             }
-        }
-        dp[ind][sum]=Math.min(ar,br);
-        return dp[ind][sum];
+        if (dp[ind][target] != -1) return dp[ind][target];
+        int notTake = change(ind+1,j, target, nums, dp);
+          
+          int take=(int)1e9;
+          
+          if(target-nums[ind]>=0)
+          {
+        
+           int cake = change(ind,j+1, target - nums[ind], nums, dp);
+            if(cake!=(int)1e9)
+            {
+              take=cake+1;
+            }
+          }
+       
+        return dp[ind][target] = Math.min(take, notTake);
     }
 }
