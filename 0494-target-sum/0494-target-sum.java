@@ -1,42 +1,39 @@
 class Solution {
-    public int findTargetSumWays(int[] nums, int target)
+    public int findTargetSumWays(int[] nums, int target) 
     {
         int sum=0;
         for(int i=0;i<nums.length;i++)
         {
             sum+=nums[i];
         }
-        int dp[][]=new int[nums.length+1][2*sum+1];
-        for(int i=0;i<nums.length;i++)
+        int n=nums.length;
+        int dp[][]=new int[n][2*sum+1];
+        for(int r[]:dp)
         {
-            for(int j=0;j<2*sum+1;j++)
-            {
-                dp[i][j]=-1;
-            }
+            Arrays.fill(r,-1);
         }
-return find(0,nums,target,dp,0,sum);
-        
+        return find(0,0,sum,nums,target,dp);
     }
-    public int find(int ind,int nums[],int target,int dp[][],int sum,int total)
+    public int find(int i,int t,int sum,int a[],int target,int dp[][])
     {
-        if(ind==nums.length)
+        if(i==a.length)
         {
-            if(sum==target)
+            if(target==t)
             {
                 return 1;
             }
-            return 0;
-
-        
+            else
+            {
+                return 0;
+            }
         }
-        if(dp[ind][sum+total]!=-1)
+        if(dp[i][sum+t]!=-1)
         {
-            return dp[ind][sum+total];
+            return dp[i][sum+t];
         }
-      
-        int a=sum-nums[ind];
-        int b=sum+nums[ind];
-        int k=find(ind+1,nums,target,dp,a,total)+find(ind+1,nums,target,dp,b,total);
-        return dp[ind][sum+total]=k;
+        int p=find(i+1,t+a[i],sum,a,target,dp);
+        int n=find(i+1,t-a[i],sum,a,target,dp);
+        return dp[i][sum+t]=p+n;
+
     }
 }
