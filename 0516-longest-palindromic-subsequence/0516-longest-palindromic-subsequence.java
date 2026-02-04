@@ -13,24 +13,23 @@ class Solution {
           return longest(0,s.length()-1,s,dp);
 
     }
-   public int longest(int ind1,int ind2,String s,int dp[][])
-   {
-    if(ind1>ind2)
-    {
+  public int longest(int i,int j,String s,int dp[][])
+  {
+      if(i>j)
+      {
         return 0;
-    }
-    if(ind1==ind2)
-    {
-        return 1;
-    }
-    if(dp[ind1][ind2]!=-1)
-    {
-        return dp[ind1][ind2];
-    }
-    if(s.charAt(ind1)==s.charAt(ind2))
-    {
-        return 2+longest(ind1+1,ind2-1,s,dp);
-    }
-    return dp[ind1][ind2]=Math.max(longest(ind1+1,ind2,s,dp),longest(ind1,ind2-1,s,dp));
-   }
+      }
+      if(i==j)
+      {return 1;}
+      if(dp[i][j]!=-1)
+      {
+        return dp[i][j];
+      }
+      if(s.charAt(i)==s.charAt(j))
+      {
+        return dp[i][j]=2+longest(i+1,j-1,s,dp);
+      }
+      return dp[i][j]=Math.max(longest(i+1,j,s,dp),longest(i,j-1,s,dp));
+  }
+   
 }
