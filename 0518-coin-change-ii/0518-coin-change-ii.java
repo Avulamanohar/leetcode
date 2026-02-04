@@ -1,47 +1,33 @@
 class Solution {
     public int change(int amount, int[] coins)
      {
-     int dp[][]=new int[coins.length][amount+1];
-     for(int i=0;i<coins.length;i++)
-     {
-        for(int j=0;j<amount+1;j++)
-        {
-            dp[i][j]=-1;
-        }
-     }
-     int a[]=new int[1];
-   return  ch(0,0,amount,coins,dp,a);
-     
-        
+        int n=coins.length;
+        int dp[][]=new int[n][amount+1];
+         for(int r[]:dp)
+         {
+          Arrays.fill(r,-1);
+         }
+    return coin(0,amount,coins,dp);
     }
-    public int ch(int ind,int sum,int k,int a[],int dp[][],int ar[])
+    public int coin(int i,int k,int coins[],int dp[][])
     {
-        if(sum==k)
-        { 
-            return 1;
-        }
-        if(ind==a.length)
+        if(k<0)
         {
             return 0;
         }
-        if(dp[ind][sum]!=-1)
+        if(i==coins.length)
         {
-return dp[ind][sum];
+            if(k==0)
+            {
+                return 1;
+            }
+            return 0;
         }
-    
-        int take=ch(ind+1,sum,k,a,dp,ar);
-      
-        int not=0;
-        if(k-sum>=a[ind])
+        if(dp[i][k]!=-1)
         {
-             not=ch(ind,sum+a[ind],k,a,dp,ar);
-         
+            return dp[i][k];
         }
-        
-            dp[ind][sum]=not+take;
-        
-       
       
-return dp[ind][sum];
+        return dp[i][k]=coin(i,k-coins[i],coins,dp)+coin(i+1,k,coins,dp);
     }
 }
