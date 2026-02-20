@@ -630,6 +630,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0560-subarray-sum-equals-k](https://github.com/Avulamanohar/leetcode/tree/master/0560-subarray-sum-equals-k) |
 | [0594-longest-harmonious-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/0594-longest-harmonious-subsequence) |
 | [0599-minimum-index-sum-of-two-lists](https://github.com/Avulamanohar/leetcode/tree/master/0599-minimum-index-sum-of-two-lists) |
+| [0771-jewels-and-stones](https://github.com/Avulamanohar/leetcode/tree/master/0771-jewels-and-stones) |
 | [0817-linked-list-components](https://github.com/Avulamanohar/leetcode/tree/master/0817-linked-list-components) |
 | [0893-all-nodes-distance-k-in-binary-tree](https://github.com/Avulamanohar/leetcode/tree/master/0893-all-nodes-distance-k-in-binary-tree) |
 | [0961-n-repeated-element-in-size-2n-array](https://github.com/Avulamanohar/leetcode/tree/master/0961-n-repeated-element-in-size-2n-array) |
@@ -694,6 +695,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0657-robot-return-to-origin](https://github.com/Avulamanohar/leetcode/tree/master/0657-robot-return-to-origin) |
 | [0678-valid-parenthesis-string](https://github.com/Avulamanohar/leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0742-to-lower-case](https://github.com/Avulamanohar/leetcode/tree/master/0742-to-lower-case) |
+| [0771-jewels-and-stones](https://github.com/Avulamanohar/leetcode/tree/master/0771-jewels-and-stones) |
 | [1030-smallest-string-starting-from-leaf](https://github.com/Avulamanohar/leetcode/tree/master/1030-smallest-string-starting-from-leaf) |
 | [1092-shortest-common-supersequence](https://github.com/Avulamanohar/leetcode/tree/master/1092-shortest-common-supersequence) |
 | [1143-longest-common-subsequence](https://github.com/Avulamanohar/leetcode/tree/master/1143-longest-common-subsequence) |
