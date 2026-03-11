@@ -353,6 +353,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0389-find-the-difference](https://github.com/Avulamanohar/leetcode/tree/master/0389-find-the-difference) |
 | [0397-integer-replacement](https://github.com/Avulamanohar/leetcode/tree/master/0397-integer-replacement) |
 | [0491-non-decreasing-subsequences](https://github.com/Avulamanohar/leetcode/tree/master/0491-non-decreasing-subsequences) |
+| [1009-complement-of-base-10-integer](https://github.com/Avulamanohar/leetcode/tree/master/1009-complement-of-base-10-integer) |
 | [1342-number-of-steps-to-reduce-a-number-to-zero](https://github.com/Avulamanohar/leetcode/tree/master/1342-number-of-steps-to-reduce-a-number-to-zero) |
 | [1873-longest-nice-substring](https://github.com/Avulamanohar/leetcode/tree/master/1873-longest-nice-substring) |
 | [3193-maximum-strong-pair-xor-i](https://github.com/Avulamanohar/leetcode/tree/master/3193-maximum-strong-pair-xor-i) |
